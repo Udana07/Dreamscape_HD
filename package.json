@@ -1,0 +1,5 @@
+{
+  "name": "dreamscape-hd",
+  "private": true,
+  "scripts": { "start": "node server.js", "test": "node --check assets/app.js && node --check assets/admin.js && node --check netlify/functions/admin.js && node --check server.js" }
+}
