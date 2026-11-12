@@ -1,0 +1,12 @@
+{
+  "home1": {
+    "enabled": true,
+    "code": "<div id=\"container-4f44806910fdeeef64142179c3b2b19b\"></div><script async=\"async\" data-cfasync=\"false\" src=\"https://bicea.org/21/4f44806910fdeeef64142179c3b2b19b\"><\/script>"
+  },
+  "home2": { "enabled": false, "code": "" },
+  "article1": {
+    "enabled": true,
+    "code": "<script>var atOptions={key:'acb3d68d200632a1b00bae26ada37a24',format:'iframe',height:90,width:728,params:{}};<\/script><script src=\"https://bicea.org/22/acb3d68d200632a1b00bae26ada37a24\"><\/script>"
+  },
+  "article2": { "enabled": false, "code": "" }
+}
