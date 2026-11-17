@@ -1,4 +1,5 @@
 /* Ad configuration now lives in data/ad-settings.json and is managed in Studio. */
+document.title='Dreamscape HD';
 window.DREAMSCAPE_CONFIG = { ads: {} };
 (function loadManagedAdLayout(){
   [['icon','/favicon-32x32.png','32x32'],['icon','/favicon-16x16.png','16x16'],['apple-touch-icon','/apple-touch-icon.png','180x180'],['manifest','/site.webmanifest','']].forEach(function(item){var link=document.createElement('link');link.rel=item[0];link.href=item[1];if(item[2])link.sizes=item[2];document.head.appendChild(link)});
